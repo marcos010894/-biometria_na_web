@@ -1,4 +1,4 @@
-# Projeto de Autenticação Biométrica na Web
+# Projeto de Autenticação Biométrica na Web - Javascrips ou NodeJS
 
 Este é um projeto de exemplo de autenticação biométrica na web que você pode usar como ponto de partida para o seu próprio sistema de autenticação. Certifique-se de seguir os passos abaixo para configurar e executar o projeto.
 
